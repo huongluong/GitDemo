@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 master: fix issue 53
 
 
+=======
+Branch: Fix issue 53
+>>>>>>> fixissue1
